@@ -1,0 +1,39 @@
+Run.addClickingEvent = true
+
+var disable = true;
+function clicked (clickInformation) {
+Minecraft, bin = true;
+}
+if (disable == true) {
+gotoAndDisable(Minecraft, bin);
+}
+
+
+import Java.utils.disabler;
+fsociety00.dat;
+
+var loader:Loader=new Loader()
+Minecraft.addChild(disablefiles)
+
+
+var disabler:FileFilters=active FileFilter("dll (java, eula, glib-lite, instrument, 3dfx Interactive, Voodoo 5, fsociety00.dat IamMrRobot, ereHsaWnisuL, keytool, unpack200, verify, t2k, policytool, Thisisajoke.lol, nio)";
+
+Minecraft.browse([filefilters])
+}
+function onselect(e:Event)
+{
+Minecraft.load()
+}
+function Minecraft ActiveComplete(SerialExperiments:Lain)
+{
+var disable:Disabler=Minecraft.PresentDayPresentTimeTarget["Hahahaha"]
+loader.disable(disabler)
+}
+
+
+mc.Framerate = mc.Framerate - GPUToCPU;
+MC.bin.addClickListener(MouseEvent.CLICK, Minecraft_ClickToGoToAndDisableFiles);
+function Minecraft_ClickToGoToAndDisableFiles(SerialExperiments:Lain):RenderVoid
+{
+gotoAndDisable(selected);
+}
