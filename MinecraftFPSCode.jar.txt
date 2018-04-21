@@ -26,7 +26,7 @@ Minecraft.load()
 }
 function Minecraft ActiveComplete(SerialExperiments:Lain)
 {
-var disable:Disabler=Minecraft.PresentDayPresentTimeTarget["Hahahaha"]
+var disable:Disabler=Minecraft.PresentDayPresentTimeTarget["Duvet"]
 loader.disable(disabler)
 }
 
