@@ -13,4 +13,4 @@ Lusin had to do something to gain the respect Lusin deserves within the Minecraf
 
 
 ## Installation Tutorial
-If you need a tutorial on how to use and install this legit Minecraft FPS hack, there is [Lusin's video tutorial](https://youtu.be/saqhJBy2X8M)
+If you need a tutorial on how to use and install this legit Minecraft FPS hack, there is [**_Lusin's video tutorial_**](https://youtu.be/saqhJBy2X8M)
