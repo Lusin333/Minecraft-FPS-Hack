@@ -16,7 +16,7 @@ If you need a tutorial on how to use and install this legit Minecraft FPS hack, 
 ***
 
 ## Follow Lusin
-* [Lusin's Youtube](https://www.youtube.com/c/Lusin333?sub_confirmation=1)
-* [Lusin's Github](https://github.com/Lusin333)
-* [Lusin's Twitter](https://twitter.com/Lusin333)
-* [Lusin's Instagram](https://instagram.com/LusinCriminal)
+* 🎥[Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
+* 🐦[Lusin's Twitter](https://Twitter.com/Lusin333)
+* 📸[Lusin's Instagram](https://Instagram.com/LusinCriminal)
+* 👩‍💻[Lusin's Github](https://Github.com/Lusin333)
