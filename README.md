@@ -15,8 +15,9 @@ Lusin had to do something to gain the respect Lusin deserves within the Minecraf
 If you need a tutorial on how to use and install this legit Minecraft FPS hack, there is [**_Lusin's video tutorial_**](https://youtu.be/saqhJBy2X8M)
 ***
 
-## Follow Lusin
+## Follow Lusin333
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
 * 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
+* 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
