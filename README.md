@@ -22,5 +22,4 @@ If you need a tutorial on how to use and install this legit Minecraft FPS hack, 
 * 📽️ [Lusin333 TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin333 Github](https://Github.com/Lusin333)
 
-***
-![Minecraft FPS Hack visitor badge](https://visitor-badge.glitch.me/badge?page_id=Minecraft_FPS_Hack.visitor-badge&left_text=Minecraft%20FPS%20Hack%20Visitors)
+
